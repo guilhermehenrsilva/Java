@@ -11,6 +11,19 @@ public class Variavel {
         // nome => "Guilherme"
         System.out.println(nome);
         System.out.println(idade);
-       // System.out.println("Guilherme");
+       
+
+        // 2 - Atribuição de variavel com outra 
+
+        String teste = "teste1";
+
+        String testando = teste ;
+
+        System.out.println(testando);
+
+        long numeroGrande = 999999999999999L;
+
+
+        System.out.println(numeroGrande);
     }
 }
