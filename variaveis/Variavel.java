@@ -2,7 +2,7 @@ package variaveis;
 
 public class Variavel {
     public static void main(String[] args) {
-        // 1 - o que são variaveis 
+       /*  // 1 - o que são variaveis 
         // tipo --> nome --> tribuir um valor 
         
         String nome = "Guilherme";
@@ -25,5 +25,29 @@ public class Variavel {
 
 
         System.out.println(numeroGrande);
+
+*/
+
+/*  Aula - String  
+
+        String firstName = "Guilherme";
+        String lastName = "Souza";
+
+        System.out.println(firstName);
+        System.out.println(lastName);
+
+        System.out.println(firstName + lastName); // concatenando duas strings 
+
+        String fullName = firstName + " " + lastName;
+
+        System.out.println(fullName);
+*/
+
+
+/* Aula - Char */
+
+
+
+
     }
 }
