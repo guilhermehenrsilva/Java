@@ -17,7 +17,7 @@ package ExerciciosBee;
 import java.util.Scanner;
 
 public class media1 {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         
          Scanner scanner = new Scanner(System.in);
 
@@ -37,6 +37,5 @@ public class media1 {
          System.out.printf("MEDIA = %.1f%n" , mediaP);
 
          scanner.close();
-
-    }
+ */
 }
